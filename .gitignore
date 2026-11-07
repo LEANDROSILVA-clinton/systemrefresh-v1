@@ -1,0 +1,8 @@
+build/ 
+output/ 
+build-cmake/ 
+httpapi.h 
+CMakeLists 
+.vscode/ 
+.gitignore/ 
+googletest-1.13.0/ 

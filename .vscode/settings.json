@@ -1,0 +1,9 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/backend",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.generator": "Visual Studio 18 2026",
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "C:/Users/techk/vcpkg/scripts/buildsystems/vcpkg.cmake"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
